@@ -1,5 +1,5 @@
 import useGetConversations from '../../hooks/useGetConversations'
-import Conversation from './conversation'
+import Conversation from './Conversation'
 const Conversations = () => {
   const {loading,conversations}=useGetConversations()
   return (
