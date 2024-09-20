@@ -5,3 +5,7 @@ npm install nodemon --save-dev
 
 
 jwt secret === $ openssl rand -base64 32    in gitbash
+
+
+
+npm install react-router-dom
